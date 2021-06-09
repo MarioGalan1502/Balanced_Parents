@@ -29,10 +29,7 @@ namespace parentheses_Balanced
                 {
                     if (st.Count != 0)
                     {
-                        if (!isMatchingPair(st.Pop(), cArray[i]))
-                        {
-                            return '(';
-                        }
+                        st.Pop();
                     }
                     else
                     {
@@ -52,20 +49,20 @@ namespace parentheses_Balanced
             return ' ';
         }
 
-        public bool isMatchingPair(char c1, char c2)
-        {
-            if (c1 == '(' && c2 == ')')
-            {
-                return true;
-            }
+        // public bool isMatchingPair(char c1, char c2)
+        // {
+        //     if (c1 == '(' && c2 == ')')
+        //     {
+        //         return true;
+        //     }
 
-            return false;
-        }
+        //     return false;
+        // }
 
         static void Main(string[] args)
         {
             Program check = new Program();
-            Console.WriteLine(check.missing("()())((()))"));
+            Console.WriteLine(check.missing("())("));
         }
     }
 }

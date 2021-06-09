@@ -1,0 +1,16 @@
+C:\Users\Lenovo\Desktop\Visual Studio Code\Balanced_Parentheses\parentheses_Balanced\obj\Debug\net5.0\parentheses_Balanced.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Visual Studio Code\Balanced_Parentheses\parentheses_Balanced\obj\Debug\net5.0\parentheses_Balanced.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Visual Studio Code\Balanced_Parentheses\parentheses_Balanced\obj\Debug\net5.0\parentheses_Balanced.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Visual Studio Code\Balanced_Parentheses\parentheses_Balanced\obj\Debug\net5.0\parentheses_Balanced.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Visual Studio Code\Balanced_Parentheses\parentheses_Balanced\obj\Debug\net5.0\parentheses_Balanced.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Visual Studio Code\Balanced_Parentheses\parentheses_Balanced\bin\Debug\net5.0\parentheses_Balanced.exe
+C:\Users\Lenovo\Desktop\Visual Studio Code\Balanced_Parentheses\parentheses_Balanced\bin\Debug\net5.0\parentheses_Balanced.deps.json
+C:\Users\Lenovo\Desktop\Visual Studio Code\Balanced_Parentheses\parentheses_Balanced\bin\Debug\net5.0\parentheses_Balanced.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Visual Studio Code\Balanced_Parentheses\parentheses_Balanced\bin\Debug\net5.0\parentheses_Balanced.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\Visual Studio Code\Balanced_Parentheses\parentheses_Balanced\bin\Debug\net5.0\parentheses_Balanced.dll
+C:\Users\Lenovo\Desktop\Visual Studio Code\Balanced_Parentheses\parentheses_Balanced\bin\Debug\net5.0\ref\parentheses_Balanced.dll
+C:\Users\Lenovo\Desktop\Visual Studio Code\Balanced_Parentheses\parentheses_Balanced\bin\Debug\net5.0\parentheses_Balanced.pdb
+C:\Users\Lenovo\Desktop\Visual Studio Code\Balanced_Parentheses\parentheses_Balanced\obj\Debug\net5.0\parentheses_Balanced.dll
+C:\Users\Lenovo\Desktop\Visual Studio Code\Balanced_Parentheses\parentheses_Balanced\obj\Debug\net5.0\ref\parentheses_Balanced.dll
+C:\Users\Lenovo\Desktop\Visual Studio Code\Balanced_Parentheses\parentheses_Balanced\obj\Debug\net5.0\parentheses_Balanced.pdb
+C:\Users\Lenovo\Desktop\Visual Studio Code\Balanced_Parentheses\parentheses_Balanced\obj\Debug\net5.0\parentheses_Balanced.genruntimeconfig.cache
